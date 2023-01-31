@@ -3,6 +3,5 @@ FGCU students have difficulty finding available parking spots on campus during s
 
 ## Assumptions
 
-Project T.A.M.N aims to develop 
-an app that will track the number of spaces available in each parking garage on campus. This will allow any student to check
-their phone and know where they will be able to find parking during the day.
+- Solution will be in the form of some sort of smart phone app
+- Solution will involve scanning QR codes to keep track of cars
