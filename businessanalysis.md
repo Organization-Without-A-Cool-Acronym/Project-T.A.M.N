@@ -17,3 +17,14 @@
 ## Business operational modes
 ## Business operational quality
 ## Business structure
+# Preliminary operational concept of proposed system
+## Preliminary operational concept
+### operational policies and constraints
+
+###description of the proposed system
+
+### modes of system operation
+
+### user classes and other involved personnel
+
+### support environment
