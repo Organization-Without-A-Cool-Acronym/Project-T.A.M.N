@@ -20,11 +20,7 @@
 # Preliminary operational concept of proposed system
 ## Preliminary operational concept
 ### operational policies and constraints
-
-###description of the proposed system
-
+### description of the proposed system
 ### modes of system operation
-
 ### user classes and other involved personnel
-
 ### support environment
