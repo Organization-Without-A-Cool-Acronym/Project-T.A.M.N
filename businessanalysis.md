@@ -41,7 +41,7 @@ Currently unable to identify business structure.
 ## 5.1 Preliminary operational concept
 System is currently planned to have the following features:
 - Being able to know locations of cars
-- Payment through app?
+- Payment through app
 - How many locations will be available in parking spaces
 - Stakeholders will have advertisements.
 ## 5.2 Preliminary operational scenarios
