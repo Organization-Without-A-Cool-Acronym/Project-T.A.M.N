@@ -48,13 +48,13 @@ System is currently planned to have the following features:
 Customers will access the system through parking app. Administrators will access the system through the office.
 # 6). Other preliminary life-cycle concepts
 ## 6.1 Preliminary acquisition concept
-Currently unsure how system will be produced.
+Software will be available through the apple store. The company will also work with other businesses and organizations (such as malls, universities, local governments, etc.) to get them involved on the app. 
 ## 6.2 Preliminary deployment concept
-Currently unsure how system will be validated, delivered and introduced into operations.
+App will be published on the apple store and other online retail sites.
 ## 6.3 Preliminary support concept
-Currently unsure of the infrastructure required to support the system.
+Customer support team will be available to users and will handle any issues with the app.
 ## 6.4 Preliminary retirement concept
-Currently unsure of how the software will be retired. 
+Servers will be wiped to secure users' data and then shutdown. Any hardware used in parking lots of participating businesses and organizations will be collected and disposed of.
 # 7). Project Constraints
 Project budget is $10,000
 # 8). Appendix
